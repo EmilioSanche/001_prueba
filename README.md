@@ -1,4 +1,3 @@
-# 001_prueba
+# Prueba 001
 
-Primer proyecto de aprendizaje de Github.
-Estamos trabajando con **visual studio code**
+Este es el repositorio creado para la primera práctica de repositorios, donde aprenderemos como tener y configurar uno.
